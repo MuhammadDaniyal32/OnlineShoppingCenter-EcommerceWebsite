@@ -1,0 +1,21 @@
+Login Info:
+
+Email = daniyal@gmail.com
+
+Password = Daniyal.485
+
+Account Type = Admin
+
+----------------------------
+
+Email = Ali@gmail.com
+
+Password = ali@1234
+
+Account Type = User
+
+-----------------------------
+
+Database Info:
+
+Database name = ecommerce_db

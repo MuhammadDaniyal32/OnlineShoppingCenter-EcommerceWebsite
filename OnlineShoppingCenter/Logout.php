@@ -1,0 +1,11 @@
+<?php
+session_start();
+unset($_SESSION['Email']);
+unset($_SESSION['Role']);
+unset($_SESSION['Username']);
+unset($_SESSION['Userid']);
+unset($_SESSION['qty_array']);
+unset($_SESSION['message']);
+unset($_SESSION['cart']);
+header("Location:index.php");
+?>
