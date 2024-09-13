@@ -17,7 +17,7 @@ _OnlineShoppingCenter is PHP/MySQL based e-commerce wesite.This web application 
 - Admin Page With Updated Statistics
 - Admin Can Search Users
 
-It's Live Here: [OnlineShoppingCenter](https://OnlineShoppingCenter.free.nf)
+It's Live Here: [OnlineShoppingCenter](https://OnlineShoppingCenter.free.nf/)
 
 ### Screenshots:
 
